@@ -1,0 +1,15 @@
+El video explica la importancia del dominio financiero en la gestión de proyectos, especialmente en proyectos de software. La idea central es que un software no debe evaluarse únicamente por si funciona técnicamente, sino también por si es financieramente viable y genera valor.
+Puntos principales.
+Inversión inicial del proyecto
+Se diferencia entre CAPEX y OPEX:
+CAPEX: inversión inicial en activos o recursos necesarios para poner en marcha el proyecto.
+OPEX: gastos operativos necesarios para mantenerlo funcionando.
+Proyección financiera Se deben estimar:
+Ingresos y ahorros que producirá el proyecto.
+Costos de desarrollo y operación.
+Flujo de caja neto, es decir, la diferencia entre ingresos y costos.
+Flujo de caja Permite observar cómo entra y sale el dinero durante la vida del proyecto. Esto ayuda a determinar si la inversión puede sostenerse y cuándo comienza a generar beneficios.
+ROI y recuperación de la inversión El ROI (Return on Investment) permite medir la rentabilidad obtenida respecto a la inversión realizada. También interesa conocer cuánto tiempo tarda el proyecto en recuperar su costo inicial.
+VAN — Valor Actual Neto El VAN representa el valor actual de una serie de flujos de caja futuros, aplicando una tasa de descuento. Sirve para analizar cuánto valor económico genera una inversión considerando el valor del dinero en el tiempo.
+TIR — Tasa Interna de Retorno Es la tasa de interés que hace que el VAN sea igual a cero. Se utiliza como una medida de la rentabilidad esperada del proyecto.
+Métricas de viabilidad El video destaca que estas métricas funcionan como el “idioma del valor”: permiten presentar ante los responsables del proyecto información objetiva para decidir si una iniciativa de software tiene sentido financiero.
