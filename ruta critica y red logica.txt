@@ -1,0 +1,29 @@
+El video explica cómo utilizar la Red Lógica y el Método de la Ruta Crítica para determinar qué actividades de un proyecto son realmente determinantes para cumplir la fecha de finalización.
+Los principales conceptos son:
+Red lógica del proyecto
+Representa las actividades y sus dependencias.
+Permite visualizar cómo diferentes rutas pueden converger o divergir.
+Ayuda a identificar dónde pueden aparecer cuellos de botella y retrasos.
+Método de la Ruta Crítica
+La ruta crítica está formada por la secuencia de actividades que determina la duración mínima del proyecto.
+Si una actividad perteneciente a esta ruta se retrasa, puede retrasarse también la fecha final del proyecto.
+Por eso, estas actividades requieren especial seguimiento.
+Holgura total
+Es el tiempo que una actividad puede retrasarse sin afectar la fecha de finalización del proyecto.
+Las actividades con poca o ninguna holgura necesitan mayor atención porque tienen menor margen de maniobra.
+Aceleración e intensificación El video diferencia dos estrategias para reducir la duración del proyecto:
+Intensificación (Crashing): agregar recursos para terminar una actividad más rápido. Esto implica normalmente mayor costo y mayor riesgo.
+Aceleración/ejecución en paralelo (Fast Tracking): realizar actividades que normalmente serían secuenciales de manera simultánea. Puede reducir el tiempo, pero aumenta el riesgo de errores, retrabajo y conflictos.
+Costo del retraso Se plantea que un retraso en una actividad crítica puede tener un impacto económico importante. Por eso, antes de invertir recursos para acelerar el proyecto, se debe comparar:
+Costo de acelerar < costo de retrasarse
+La decisión debe considerar tanto el tiempo como los costos y riesgos asociados.
+Cronograma optimizado Finalmente, se propone construir un cronograma que considere:
+La ruta crítica.
+Las holguras disponibles.
+Las actividades que pueden ejecutarse en paralelo.
+Los recursos necesarios.
+Los riesgos de acelerar determinadas actividades.
+La fecha de entrega comprometida.
+Idea principal
+No todas las actividades de un proyecto tienen el mismo impacto sobre la fecha final.
+La Ruta Crítica permite identificar cuáles actividades son determinantes. A partir de ahí, el gerente del proyecto puede decidir dónde controlar, reasignar recursos o acelerar actividades, buscando reducir la duración sin generar costos o riesgos innecesarios.
