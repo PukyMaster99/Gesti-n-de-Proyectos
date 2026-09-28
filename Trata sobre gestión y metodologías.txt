@@ -1,0 +1,13 @@
+Trata sobre gestión y metodologías de proyectos, con este hilo conductor:
+1. El espectro de enfoques de proyecto
+Explica el continuo entre enfoque Predictivo (tipo construcción/obra civil), Híbrido y Adaptativo (tipo desarrollo de software). Se ejemplifica con la fórmula "construcción + software = enfoque híbrido (H)".
+2. Sastrería (Tailoring)
+Se define como la adaptación del enfoque y los procesos de gestión para ajustarlos al entorno y al trabajo. Presenta un proceso de 4 pasos para adaptar la gestión de un proyecto, apoyado en iconografía de: brújula (contexto), engranajes (procesos), balanza (juicio/criterio) y escudo con candado (gobernanza/riesgos).
+3. Taller: Retrospectiva – Herramientas prácticas
+Cuarto bloque del video, centrado en herramientas de retrospectiva ágil (por ejemplo la técnica Start / Stop / Continue) para evaluar iteraciones de trabajo.
+4. Cierre y lecciones aprendidas
+Presenta un ciclo de 4 etapas:
+Reflexión – pensar sobre la iteración
+Identificación – detectar éxitos y fallos
+Documentación – registrar las lecciones en un "Registro de Lecciones Aprendidas"
+Transferencia – actualizar los activos de la organizació
