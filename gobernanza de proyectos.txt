@@ -1,0 +1,9 @@
+La gobernanza de proyectos establece las reglas, responsabilidades y mecanismos de decisión necesarios para que un proyecto esté alineado con los objetivos estratégicos de la organización.
+El video explica principalmente:
+Marco de gobernanza: establece las reglas y estructuras bajo las que funciona el proyecto.
+Roles clave: define responsabilidades del Sponsor, Product Owner, Scrum Master y desarrolladores.
+Toma de decisiones: busca que las decisiones se realicen en el nivel adecuado, promoviendo la autoridad distribuida en equipos ágiles.
+Autogobierno ágil: los equipos pueden organizarse y tomar decisiones locales dentro de unos límites establecidos.
+Plan de gobernanza: define cómo se supervisará y dirigirá el proyecto.
+Matriz RACI: permite determinar quién es Responsable, quién Aprueba/Responde, quién es Consultado y quién es Informado.
+Políticas y límites: establecen estándares, controles y restricciones; cuando el proyecto supera ciertos límites, se realiza un escalamiento.
